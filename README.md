@@ -41,6 +41,5 @@ The following **optional** features are implemented:
 - **Animating Letter Entry**: The keyboard was implemented with a slight **scaling animation for a better user experience**.
 - **Launch Screen Implementation**: Added a custom launch screen to improve the app's UI consistency.
 
-## **License**
 
 
