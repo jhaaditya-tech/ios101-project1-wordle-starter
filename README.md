@@ -4,7 +4,7 @@ Submitted by: **Aditya Jha**
 
 **Wordle Clone** is an iOS app that allows users to play a simplified version of Wordle. Players attempt to guess a five-letter word within six attempts. The app provides color-coded feedback for each letter based on correctness and position.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## **Required Features**
 
