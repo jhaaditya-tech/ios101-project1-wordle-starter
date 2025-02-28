@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 
 ## **Video Walkthrough**
 
-[Guide] .
+[[Guide] .](https://youtube.com/shorts/X1oULqTpcm0?feature=share)
 
 ## **Notes**
 
